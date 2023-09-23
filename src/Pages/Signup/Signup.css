@@ -1,0 +1,28 @@
+.semail {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.sname {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.snumber {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.spassword {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.scheckbox {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.sign {
+    text-align: left;
+}
