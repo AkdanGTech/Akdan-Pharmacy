@@ -1,8 +1,20 @@
-# React + Vite
+### Akdan Pharmacy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### [See it Live](https://daniel-akinyoyenu-pharmacy.glitch.me/)
 
-Currently, two official plugins are available:
+#### Update: Now you can customize all the texts without modifying the code!
+This is a Pharmacy webpage where you can make request for Drugs based on your Prescription and make Payment online with Instant Delivery.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Fork the repository
+* Open `package.json` and replace the content with your own
+* Turn on GitHub pages for your repository (Settings > Pages)
+* Share the URL you get at the above step with your friend
+
+Feel free to [get in touch with me](mailto:danielakinyoyenu@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/AkdanGTech) as well. :)
+
+
+## Contributing
+I used Reactjs for this Project
+If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
+
+Happy wishing! 🎉
