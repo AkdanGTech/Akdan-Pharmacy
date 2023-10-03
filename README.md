@@ -1,6 +1,6 @@
 ### Akdan Pharmacy
 
-#### [See it Live](https://daniel-akinyoyenu-pharmacy.glitch.me/)
+#### [See it Live]([https://daniel-akinyoyenu-pharmacy.glitch.me/](https://akdan-pharmacy.vercel.app/))
 
 #### Update: Now you can customize all the texts without modifying the code!
 This is a Pharmacy webpage where you can make request for Drugs based on your Prescription and make Payment online with Instant Delivery.
