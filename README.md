@@ -3,7 +3,7 @@
 #### [See it Live]([https://akdan-pharmacy.vercel.app/]
 
 #### Update: Now you can customize all the texts without modifying the code!
-This is a Pharmacy webpage where you can make request for Drugs based on your Prescription and make Payment online with Instant Delivery.
+This is a Pharmacy webpage for Drug Description by searching with the name, signup, login and submit form to see a Doctor
 
 * Fork the repository
 * Open `package.json` and replace the content with your own
