@@ -13,7 +13,7 @@ function Login () {
         <div className="Logininput">
           <label for="email" className="email">
             Enter your email:: 
-          </label>
+          </label><br/>
           <input type="email" className="lemail" placeholder="" required /><br/>
           <label>Enter your password</label>
           <label>
