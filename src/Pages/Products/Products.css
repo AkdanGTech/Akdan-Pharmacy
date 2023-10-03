@@ -1,0 +1,21 @@
+.col-xs-6  {
+    display:table-header-group;
+    flex-direction:wrap;
+    width:10%;
+    height:auto;
+}
+.btn-cart {
+    display:flex;
+    text-align: left;
+    background-color:aqua;
+    float: left;
+}
+.btn-details {
+    text-align: right;
+    background-color: aqua;
+    display: flex;
+    float: right;
+}
+* {
+    border-radius: 50px;
+}

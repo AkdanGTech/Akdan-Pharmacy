@@ -1,0 +1,37 @@
+.Navbar {
+    cursor: pointer;
+}
+ul {
+    list-style-type: none;
+}
+nav ul {
+    display: flex;
+    gap: 1.9rem;
+    position: sticky;
+}
+nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    display: flex;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-between;
+    background-color: greenyellow;
+    padding: 10px;
+    border: solid #999999 10px;
+    font-size: 17px;
+    overflow: hidden;
+    margin-left: 50px;
+    
+}
+nav a {
+    background-color: #04aa6d;
+    color: white;
+    padding: 20px;
+}
+nav a:hover {
+    background-color: #04aa6d;
+    color: blue;
+}

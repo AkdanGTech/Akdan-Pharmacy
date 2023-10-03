@@ -1,0 +1,18 @@
+.lemail {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.lpassword {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.lcheckbox {
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.Logininput {
+    color:white
+}
